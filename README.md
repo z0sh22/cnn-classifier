@@ -66,6 +66,7 @@ streamlit run app.py
 ---
 
 ## Структура проекта
+```
 cnn-classifier/
 ├── src/
 │ ├── _init_.py
@@ -77,7 +78,7 @@ cnn-classifier/
 ├── requirements.txt
 ├── CNN_THEORY.md — теоретическая справка по CNN
 └── README.md
-
+```
 
 ---
 
