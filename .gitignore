@@ -1,0 +1,9 @@
+.venv/
+results/
+__pycache__/
+*.pyc
+.keras/
+*.h5
+*.egg-info/
+.DS_Store
+Thumbs.db
